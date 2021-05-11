@@ -1,0 +1,64 @@
+/* .toolbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: red;
+  color: white;
+  font-weight: 600;
+}
+.toolbar img {
+  margin: 0 16px;
+}
+.toolbar #twitter-logo {
+  height: 40px;
+  margin: 0 8px;
+}
+.toolbar #youtube-logo {
+  height: 40px;
+  margin: 0 16px;
+}
+.toolbar #twitter-logo:hover,
+.toolbar #youtube-logo:hover {
+  opacity: 0.8;
+}
+.content {
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  max-width: 960px;
+  flex-direction: column;
+  align-items: center;
+} */
+
+
+/* .parent {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  }
+  
+  .div1 { grid-area: 2 / 1 / 5 / 4; }
+  .div2 { grid-area: 2 / 4 / 5 / 7; }
+  .div3 { grid-area: 1 / 1 / 2 / 7; }
+  .div4 { grid-area: 5 / 1 / 6 / 7; }
+
+
+
+  #top-icons{
+    align-items: center;
+    display: block;
+    padding: 14px 16px;
+  }
+
+  #top{
+    align-content: center;
+    float: left;
+    display: block;
+    padding: 14px 16px;
+  } */
